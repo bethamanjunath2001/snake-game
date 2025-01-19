@@ -1,2 +1,3 @@
 # snake-game
 You might remember the snake game that we played as kids on our 1 inch screen phones back in the day. Yeah that one where the snake grows each time it eats and gets killed if it bites the walls or its own tail. I thought it would be a fun exercise to code it to play in the linux terminal with basic c without the use of any graphics. So I went on and did it in about 3 days. It is working pretty well. You might want to check it out if you have a linux terminal.
+I have also included screenshots to show how the thing is going to look, given that it successfully runs on your linux machine. There are some lines that are very specific to the system I built this code on. Excuse me for that in advance.
